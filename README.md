@@ -1,7 +1,7 @@
 # World Layoff Project
 
 ## Project Overview
-The **World Layoff Project** analyzes global layoffs across various industries, providing insights into company-specific and geographic trends. The project involves data cleaning using MySQL and data visualization with Power BI to derive key insights.
+The **World Layoff Project** analyzes global layoffs across various industries, providing insights into company-specific and geographic trends. The project involves data cleaning using MySQL, Advanced Excel and data visualization with Power BI to derive key insights.
 
 ## Dataset
 
@@ -20,7 +20,7 @@ The **World Layoff Project** analyzes global layoffs across various industries, 
 
 ## Data Cleaning & Processing
 
-- **Tools Used:** MySQL
+- **Tools Used:** MySQL, Excel
 - **Steps:**
   1. **Data Import and Inspection:**
      - Loaded the raw dataset for preliminary analysis.
